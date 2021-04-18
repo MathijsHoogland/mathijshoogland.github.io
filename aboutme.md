@@ -4,13 +4,4 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Mathijs Hoogland. I'm  a cloud native engineer at [Container Solutions](https://container-solutions.com). Don't expect too much from this blog, for now it's just an experiment where I document the stuff I encounter to see if this whole blogging thing is something for me.
